@@ -1,0 +1,10 @@
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\bin\Debug\practicasemana7.exe.config
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\bin\Debug\practicasemana7.exe
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\bin\Debug\practicasemana7.pdb
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.Form1.resources
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.Properties.Resources.resources
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.exe
+C:\Users\Mauricio\source\repos\practicasemana7\practicasemana7\obj\Debug\practicasemana7.pdb
